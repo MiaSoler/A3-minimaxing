@@ -1,3 +1,5 @@
+package com.minimaxing;
+
 import java.util.*;
 
 public class AI {

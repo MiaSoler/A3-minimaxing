@@ -1,1 +1,5 @@
+com/minimaxing/GameController.class
 module-info.class
+com/minimaxing/AI.class
+com/minimaxing/MainApp.class
+com/minimaxing/Board.class

@@ -1,3 +1,5 @@
+package com.minimaxing;
+
 public class Board {
 
     public static final int ROWS = 6;
@@ -18,7 +20,7 @@ public class Board {
     }
 
     public int dropPiece(int col, int piece) {
-        for (int row = ROWS - 1; row >= 0; r--) {
+        for (int row = ROWS - 1; row >= 0; row --) {
             if (grid[row][col] == 0) {
                 grid[row][col] = piece;
                 return row;

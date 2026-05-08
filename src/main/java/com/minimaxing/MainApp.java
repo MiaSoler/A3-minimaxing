@@ -1,4 +1,4 @@
-package com.connect4;
+package com.minimaxing;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
